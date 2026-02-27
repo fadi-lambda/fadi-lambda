@@ -23,7 +23,7 @@
 <a href="https://instagram.com/fadi_astic" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/Muhammad Fahad" target="_blank">
+<a href="[https://linkedin.com/in/Muhammad Fahad](https://www.linkedin.com/in/muhammad-fahad-499b9a39a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://reddit.com/user/fadi_astic" target="_blank">
