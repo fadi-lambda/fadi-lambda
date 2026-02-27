@@ -32,13 +32,13 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fadi-lambda&theme=dark&show_icons=true&hide_border=false" alt="Fahad's GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fadi-lambda&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadi-lambda&theme=dark" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadi-lambda&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadi-lambda&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
