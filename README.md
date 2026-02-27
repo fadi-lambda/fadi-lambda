@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on improving my programming fundamentals and building small practice projects.
-- 🌱 I’m currently learning Web Development, Flutter with Firebase, and strengthening my C++ logic.
+- 🌱 I’m currently learning Web Development and strengthening my C++ logic.
 - 👯 I’m looking to collaborate on beginner-friendly projects, learning-based apps, or simple real-world tools.
 - 🤔 I’m looking for help with freelancing roadmaps, project ideas, and writing clean, scalable code.
 - 💬 Ask me about C++, basic problem solving, web dev learning paths, or getting started as a freelancer.
