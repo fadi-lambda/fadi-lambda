@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on beginner-friendly projects, learning-based apps, or simple real-world tools.
 - 🤔 I’m looking for help with freelancing roadmaps, project ideas, and writing clean, scalable code.
 - 💬 Ask me about **C++**, basic problem solving, web dev learning paths, or getting started as a freelancer.
-- 📫 How to reach me: GitHub messages or **i253081@isb.nu.edu.pk**
+- 📫 How to reach me: GitHub messages or **fadi.lambda@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I’m a long-term thinker — learning tech for freelancing now and building toward a startup in the future.
 
