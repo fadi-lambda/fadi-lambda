@@ -69,30 +69,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fadi-lambda&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fadi-lambda&theme=tokyonight&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=fadi-lambda&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=fadi-lambda&theme=tokyonight&border_radius=10" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadi-lambda&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadi-lambda&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" width="40%" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fadi-lambda&theme=tokyonight&no-frame=false&margin-w=10&row=1" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/fadi-lambda/fadi-lambda/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
@@ -100,14 +84,6 @@
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=fadi-lambda&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
