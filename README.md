@@ -69,12 +69,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fadi-lambda&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=fadi-lambda&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=3600" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=fadi-lambda&theme=tokyonight&border_radius=10" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadi-lambda&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" width="40%" />
 
 </div>
 
@@ -89,11 +85,6 @@
 ---
 
 <div align="center">
-
-### 👀 Profile Views
-<img src="https://visitcount.itsvg.in/api?id=fadi-lambda&icon=5&color=6" />
-
-<br><br>
 
 *⭐ If you like my profile, consider giving a star to my repos!*
 
