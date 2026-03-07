@@ -1,13 +1,26 @@
-# 💫 About Me
+<div align="center">
+  
+# 👋 Hi, I'm Muhammad Fahad Basharat
+### 🚀 Aspiring Developer | Future Freelancer | Startup Dreamer
 
-- 🔭 I’m currently working on improving my programming fundamentals and building small practice projects.
-- 🌱 I’m currently learning **Web Development** and strengthening my **C++ logic**.
-- 👯 I’m looking to collaborate on beginner-friendly projects, learning-based apps, or simple real-world tools.
-- 🤔 I’m looking for help with freelancing roadmaps, project ideas, and writing clean, scalable code.
-- 💬 Ask me about **C++**, basic problem solving, web dev learning paths, or getting started as a freelancer.
-- 📫 How to reach me: GitHub messages or **fadi.lambda@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I’m a long-term thinker — learning tech for freelancing now and building toward a startup in the future.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Learning+Web+Development+%F0%9F%8C%90;Sharpening+C%2B%2B+Logic+%F0%9F%A7%A0;Building+Toward+Freelancing+%F0%9F%92%BC;Future+Startup+Founder+%F0%9F%9A%80)
+
+</div>
+
+---
+
+## 💫 About Me
+
+| | |
+|---|---|
+| 🔭 **Working On** | Improving programming fundamentals & building small practice projects |
+| 🌱 **Learning** | **Web Development** & strengthening **C++ logic** |
+| 👯 **Looking to Collaborate** | Beginner-friendly projects, learning-based apps, simple real-world tools |
+| 🤔 **Looking for Help With** | Freelancing roadmaps, project ideas & writing clean scalable code |
+| 💬 **Ask Me About** | **C++**, problem solving, web dev paths, getting started as a freelancer |
+| 📫 **Reach Me** | GitHub messages or **fadi.lambda@gmail.com** |
+| 😄 **Pronouns** | He/Him |
+| ⚡ **Fun Fact** | Long-term thinker — learning tech for freelancing now, building a startup in the future |
 
 ---
 
@@ -23,48 +36,62 @@
 <a href="https://instagram.com/fadi_astic" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="[https://linkedin.com/in/muhammad-fahad" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/muhammad-fahad-basharat" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://reddit.com/user/fadi_astic" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
-<a href="https://x.com/fadi_astic" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://threads.com/fadi_astic" target="_blank">
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
 </a>
-<a href="mailto:i253081@isb.nu.edu.pk">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:fadi.lambda@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fadi-lambda&show_icons=true&theme=tokyonight" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fadi-lambda&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fadi-lambda&theme=tokyonight&border_radius=10" width="48%" />
+
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fadi-lambda&theme=tokyonight" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadi-lambda&layout=compact&theme=tokyonight" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadi-lambda&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fadi-lambda&theme=tokyonight&no-frame=false&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=fadi-lambda&theme=tokyonight&no-frame=false&margin-w=10&row=1" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/fadi-lambda/fadi-lambda/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -85,6 +112,13 @@
 
 ---
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=fadi-lambda&icon=5&color=0" />
-</p>
+<div align="center">
+
+### 👀 Profile Views
+<img src="https://visitcount.itsvg.in/api?id=fadi-lambda&icon=5&color=6" />
+
+<br><br>
+
+*⭐ If you like my profile, consider giving a star to my repos!*
+
+</div>
